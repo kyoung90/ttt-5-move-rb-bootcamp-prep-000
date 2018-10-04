@@ -9,4 +9,4 @@ index = input_to_index(gets.strip)
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-move()
+move(board, index, "X")
